@@ -1,4 +1,4 @@
 var namespaces_dup =
 [
-    [ "CoreManager", "namespace_core_manager.html", "namespace_core_manager" ]
+    [ "CorePlugin", "d6/d4e/namespace_core_plugin.html", "d6/d4e/namespace_core_plugin" ]
 ];

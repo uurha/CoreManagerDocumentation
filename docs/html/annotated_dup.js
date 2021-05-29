@@ -1,115 +1,91 @@
 var annotated_dup =
 [
-    [ "CoreManager", "namespace_core_manager.html", [
-      [ "Core", "namespace_core_manager_1_1_core.html", [
-        [ "Interface", "namespace_core_manager_1_1_core_1_1_interface.html", [
-          [ "ICore", "interface_core_manager_1_1_core_1_1_interface_1_1_i_core.html", "interface_core_manager_1_1_core_1_1_interface_1_1_i_core" ]
+    [ "CorePlugin", "d6/d4e/namespace_core_plugin.html", [
+      [ "Core", "d0/d7c/namespace_core_plugin_1_1_core.html", [
+        [ "Interface", "d0/db9/namespace_core_plugin_1_1_core_1_1_interface.html", [
+          [ "ICore", "d6/daf/interface_core_plugin_1_1_core_1_1_interface_1_1_i_core.html", "d6/daf/interface_core_plugin_1_1_core_1_1_interface_1_1_i_core" ]
         ] ],
-        [ "BaseCore", "class_core_manager_1_1_core_1_1_base_core.html", "class_core_manager_1_1_core_1_1_base_core" ],
-        [ "CoreManager", "class_core_manager_1_1_core_1_1_core_manager.html", null ],
-        [ "EventInitializer", "class_core_manager_1_1_core_1_1_event_initializer.html", "class_core_manager_1_1_core_1_1_event_initializer" ]
+        [ "BaseCore", "db/d4d/class_core_plugin_1_1_core_1_1_base_core.html", "db/d4d/class_core_plugin_1_1_core_1_1_base_core" ],
+        [ "CoreManager", "d2/d2b/class_core_plugin_1_1_core_1_1_core_manager.html", null ],
+        [ "EventInitializer", "dc/db8/class_core_plugin_1_1_core_1_1_event_initializer.html", "dc/db8/class_core_plugin_1_1_core_1_1_event_initializer" ]
       ] ],
-      [ "Cross", "namespace_core_manager_1_1_cross.html", [
-        [ "Events", "namespace_core_manager_1_1_cross_1_1_events.html", [
-          [ "Interface", "namespace_core_manager_1_1_cross_1_1_events_1_1_interface.html", [
-            [ "IEventHandler", "interface_core_manager_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler.html", "interface_core_manager_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler" ],
-            [ "IEventSubscriber", "interface_core_manager_1_1_cross_1_1_events_1_1_interface_1_1_i_event_subscriber.html", "interface_core_manager_1_1_cross_1_1_events_1_1_interface_1_1_i_event_subscriber" ]
+      [ "Cross", "d5/d97/namespace_core_plugin_1_1_cross.html", [
+        [ "Events", "da/dbb/namespace_core_plugin_1_1_cross_1_1_events.html", [
+          [ "Interface", "d5/daf/namespace_core_plugin_1_1_cross_1_1_events_1_1_interface.html", [
+            [ "IEventHandler", "d7/d11/interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler.html", "d7/d11/interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler" ],
+            [ "IEventSubscriber", "d5/db5/interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_subscriber.html", "d5/db5/interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_subscriber" ]
           ] ],
-          [ "EventTypes", "class_core_manager_1_1_cross_1_1_events_1_1_event_types.html", null ]
+          [ "EventTypes", "da/df9/class_core_plugin_1_1_cross_1_1_events_1_1_event_types.html", null ]
         ] ],
-        [ "SceneData", "namespace_core_manager_1_1_cross_1_1_scene_data.html", [
-          [ "Interface", "namespace_core_manager_1_1_cross_1_1_scene_data_1_1_interface.html", [
-            [ "ISceneData", "interface_core_manager_1_1_cross_1_1_scene_data_1_1_interface_1_1_i_scene_data.html", null ]
+        [ "SceneData", "de/d67/namespace_core_plugin_1_1_cross_1_1_scene_data.html", [
+          [ "Interface", "d5/df4/namespace_core_plugin_1_1_cross_1_1_scene_data_1_1_interface.html", [
+            [ "ISceneData", "d0/d19/interface_core_plugin_1_1_cross_1_1_scene_data_1_1_interface_1_1_i_scene_data.html", null ]
           ] ],
-          [ "SceneDataHandler", "class_core_manager_1_1_cross_1_1_scene_data_1_1_scene_data_handler.html", "class_core_manager_1_1_cross_1_1_scene_data_1_1_scene_data_handler" ]
+          [ "SceneDataHandler", "d3/d2d/class_core_plugin_1_1_cross_1_1_scene_data_1_1_scene_data_handler.html", "d3/d2d/class_core_plugin_1_1_cross_1_1_scene_data_1_1_scene_data_handler" ]
         ] ]
       ] ],
-      [ "CustomAttributes", "namespace_core_manager_1_1_custom_attributes.html", [
-        [ "Editor", "namespace_core_manager_1_1_custom_attributes_1_1_editor.html", [
-          [ "ValidationAttributeEditor", "class_core_manager_1_1_custom_attributes_1_1_editor_1_1_validation_attribute_editor.html", "class_core_manager_1_1_custom_attributes_1_1_editor_1_1_validation_attribute_editor" ]
+      [ "CustomAttributes", "dc/d6d/namespace_core_plugin_1_1_custom_attributes.html", [
+        [ "Editor", "d4/d92/namespace_core_plugin_1_1_custom_attributes_1_1_editor.html", [
+          [ "ValidationAttributeEditor", "d7/db2/class_core_plugin_1_1_custom_attributes_1_1_editor_1_1_validation_attribute_editor.html", null ]
         ] ],
-        [ "Headers", "namespace_core_manager_1_1_custom_attributes_1_1_headers.html", [
-          [ "PrefabHeaderAttribute", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_prefab_header_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_prefab_header_attribute" ],
-          [ "ReferencesHeaderAttribute", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_references_header_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_references_header_attribute" ],
-          [ "SettingsHeaderAttribute", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_settings_header_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_settings_header_attribute" ],
-          [ "StateHeaderAttribute", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_state_header_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_headers_1_1_state_header_attribute" ]
+        [ "Headers", "d0/d6c/namespace_core_plugin_1_1_custom_attributes_1_1_headers.html", [
+          [ "PrefabHeaderAttribute", "d8/d69/class_core_plugin_1_1_custom_attributes_1_1_headers_1_1_prefab_header_attribute.html", null ],
+          [ "ReferencesHeaderAttribute", "d8/d73/class_core_plugin_1_1_custom_attributes_1_1_headers_1_1_references_header_attribute.html", null ],
+          [ "SettingsHeaderAttribute", "d2/d52/class_core_plugin_1_1_custom_attributes_1_1_headers_1_1_settings_header_attribute.html", null ],
+          [ "StateHeaderAttribute", "d9/d38/class_core_plugin_1_1_custom_attributes_1_1_headers_1_1_state_header_attribute.html", null ]
         ] ],
-        [ "Validation", "namespace_core_manager_1_1_custom_attributes_1_1_validation.html", [
-          [ "Base", "namespace_core_manager_1_1_custom_attributes_1_1_validation_1_1_base.html", [
-            [ "ClassValidationAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_base_1_1_class_validation_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_base_1_1_class_validation_attribute" ],
-            [ "FieldValidationAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_base_1_1_field_validation_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_base_1_1_field_validation_attribute" ],
-            [ "ValidationAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_base_1_1_validation_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_base_1_1_validation_attribute" ]
+        [ "Validation", "d4/d68/namespace_core_plugin_1_1_custom_attributes_1_1_validation.html", [
+          [ "Base", "dc/d66/namespace_core_plugin_1_1_custom_attributes_1_1_validation_1_1_base.html", [
+            [ "ClassValidationAttribute", "df/df2/class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_base_1_1_class_validation_attribute.html", null ],
+            [ "FieldValidationAttribute", "d5/d5d/class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_base_1_1_field_validation_attribute.html", null ],
+            [ "ValidationAttribute", "d4/d07/class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_base_1_1_validation_attribute.html", null ]
           ] ],
-          [ "HasComponentAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_has_component_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_has_component_attribute" ],
-          [ "NotNullAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_not_null_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_not_null_attribute" ],
-          [ "OneAndOnlyAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_one_and_only_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_one_and_only_attribute" ],
-          [ "PrefabRequiredAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_prefab_required_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_prefab_required_attribute" ],
-          [ "SceneObjectRequiredAttribute", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_scene_object_required_attribute.html", "class_core_manager_1_1_custom_attributes_1_1_validation_1_1_scene_object_required_attribute" ]
+          [ "HasComponentAttribute", "dd/d19/class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_has_component_attribute.html", null ],
+          [ "NotNullAttribute", "dc/d8d/class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_not_null_attribute.html", null ],
+          [ "OneAndOnlyAttribute", "df/d6d/class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_one_and_only_attribute.html", null ],
+          [ "PrefabRequiredAttribute", "d4/d77/class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_prefab_required_attribute.html", null ]
         ] ]
       ] ],
-      [ "Editor", "namespace_core_manager_1_1_editor.html", [
-        [ "CoreMenuItems", "class_core_manager_1_1_editor_1_1_core_menu_items.html", null ],
-        [ "CustomInspectorCoreManager", "class_core_manager_1_1_editor_1_1_custom_inspector_core_manager.html", "class_core_manager_1_1_editor_1_1_custom_inspector_core_manager" ],
-        [ "SymbolDefiner", "class_core_manager_1_1_editor_1_1_symbol_definer.html", "class_core_manager_1_1_editor_1_1_symbol_definer" ],
-        [ "TagHelper", "class_core_manager_1_1_editor_1_1_tag_helper.html", "class_core_manager_1_1_editor_1_1_tag_helper" ]
+      [ "Editor", "dc/dc9/namespace_core_plugin_1_1_editor.html", [
+        [ "CustomInspectorCoreManager", "dc/d54/class_core_plugin_1_1_editor_1_1_custom_inspector_core_manager.html", null ],
+        [ "SymbolDefiner", "d9/d6c/class_core_plugin_1_1_editor_1_1_symbol_definer.html", "d9/d6c/class_core_plugin_1_1_editor_1_1_symbol_definer" ]
       ] ],
-      [ "Extensions", "namespace_core_manager_1_1_extensions.html", [
-        [ "Named", "class_core_manager_1_1_extensions_1_1_named.html", "class_core_manager_1_1_extensions_1_1_named" ],
-        [ "UIStateTools", "class_core_manager_1_1_extensions_1_1_u_i_state_tools.html", "class_core_manager_1_1_extensions_1_1_u_i_state_tools" ],
-        [ "UnityEditorExtension", "class_core_manager_1_1_extensions_1_1_unity_editor_extension.html", "class_core_manager_1_1_extensions_1_1_unity_editor_extension" ],
-        [ "UnityExtensions", "class_core_manager_1_1_extensions_1_1_unity_extensions.html", "class_core_manager_1_1_extensions_1_1_unity_extensions" ]
+      [ "Extensions", "d4/da8/namespace_core_plugin_1_1_extensions.html", [
+        [ "Named", "d4/d6f/class_core_plugin_1_1_extensions_1_1_named.html", null ],
+        [ "UIStateTools", "dd/d5f/class_core_plugin_1_1_extensions_1_1_u_i_state_tools.html", "dd/d5f/class_core_plugin_1_1_extensions_1_1_u_i_state_tools" ],
+        [ "UnityEditorExtension", "db/df8/class_core_plugin_1_1_extensions_1_1_unity_editor_extension.html", "db/df8/class_core_plugin_1_1_extensions_1_1_unity_editor_extension" ],
+        [ "UnityExtensions", "d2/d46/class_core_plugin_1_1_extensions_1_1_unity_extensions.html", "d2/d46/class_core_plugin_1_1_extensions_1_1_unity_extensions" ]
       ] ],
-      [ "FileSystem", "namespace_core_manager_1_1_file_system.html", [
-        [ "FileSystem", "class_core_manager_1_1_file_system_1_1_file_system.html", "class_core_manager_1_1_file_system_1_1_file_system" ]
+      [ "FileSystem", "da/db9/namespace_core_plugin_1_1_file_system.html", [
+        [ "FileSystem", "d9/d33/class_core_plugin_1_1_file_system_1_1_file_system.html", "d9/d33/class_core_plugin_1_1_file_system_1_1_file_system" ]
       ] ],
-      [ "Interface", "namespace_core_manager_1_1_interface.html", [
-        [ "IDeepClone", "interface_core_manager_1_1_interface_1_1_i_deep_clone.html", "interface_core_manager_1_1_interface_1_1_i_deep_clone" ]
+      [ "Interface", "d7/d1d/namespace_core_plugin_1_1_interface.html", [
+        [ "IDeepClone", "d4/d26/interface_core_plugin_1_1_interface_1_1_i_deep_clone.html", "d4/d26/interface_core_plugin_1_1_interface_1_1_i_deep_clone" ]
       ] ],
-      [ "Logger", "namespace_core_manager_1_1_logger.html", [
-        [ "CustomLogger", "class_core_manager_1_1_logger_1_1_custom_logger.html", "class_core_manager_1_1_logger_1_1_custom_logger" ]
+      [ "Logger", "d1/dd4/namespace_core_plugin_1_1_logger.html", [
+        [ "CustomLogger", "d9/d18/class_core_plugin_1_1_logger_1_1_custom_logger.html", null ]
       ] ],
-      [ "ReferenceDistribution", "namespace_core_manager_1_1_reference_distribution.html", [
-        [ "Interface", "namespace_core_manager_1_1_reference_distribution_1_1_interface.html", [
-          [ "IDistributingReference", "interface_core_manager_1_1_reference_distribution_1_1_interface_1_1_i_distributing_reference.html", null ]
+      [ "ReferenceDistribution", "d9/d7a/namespace_core_plugin_1_1_reference_distribution.html", [
+        [ "Interface", "d5/d15/namespace_core_plugin_1_1_reference_distribution_1_1_interface.html", [
+          [ "IDistributingReference", "d9/d14/interface_core_plugin_1_1_reference_distribution_1_1_interface_1_1_i_distributing_reference.html", null ]
         ] ],
-        [ "ReferenceDistributor", "class_core_manager_1_1_reference_distribution_1_1_reference_distributor.html", "class_core_manager_1_1_reference_distribution_1_1_reference_distributor" ]
+        [ "ReferenceDistributor", "d2/d96/class_core_plugin_1_1_reference_distribution_1_1_reference_distributor.html", "d2/d96/class_core_plugin_1_1_reference_distribution_1_1_reference_distributor" ]
       ] ],
-      [ "Samples", "namespace_core_manager_1_1_samples.html", [
-        [ "Scripts", "namespace_core_manager_1_1_samples_1_1_scripts.html", [
-          [ "Demo", "namespace_core_manager_1_1_samples_1_1_scripts_1_1_demo.html", [
-            [ "CrossSceneDataReceiverDemo", "class_core_manager_1_1_samples_1_1_scripts_1_1_demo_1_1_cross_scene_data_receiver_demo.html", "class_core_manager_1_1_samples_1_1_scripts_1_1_demo_1_1_cross_scene_data_receiver_demo" ],
-            [ "CrossSceneDataSenderDemo", "class_core_manager_1_1_samples_1_1_scripts_1_1_demo_1_1_cross_scene_data_sender_demo.html", "class_core_manager_1_1_samples_1_1_scripts_1_1_demo_1_1_cross_scene_data_sender_demo" ]
-          ] ],
-          [ "EventTypes", "namespace_core_manager_1_1_samples_1_1_scripts_1_1_event_types.html", [
-            [ "CustomEventTypes", "class_core_manager_1_1_samples_1_1_scripts_1_1_event_types_1_1_custom_event_types.html", "class_core_manager_1_1_samples_1_1_scripts_1_1_event_types_1_1_custom_event_types" ]
-          ] ],
-          [ "Managers", "namespace_core_manager_1_1_samples_1_1_scripts_1_1_managers.html", [
-            [ "ObjectManager", "class_core_manager_1_1_samples_1_1_scripts_1_1_managers_1_1_object_manager.html", null ]
-          ] ],
-          [ "Model", "namespace_core_manager_1_1_samples_1_1_scripts_1_1_model.html", [
-            [ "DataTransfer", "class_core_manager_1_1_samples_1_1_scripts_1_1_model_1_1_data_transfer.html", "class_core_manager_1_1_samples_1_1_scripts_1_1_model_1_1_data_transfer" ],
-            [ "InstancedObject", "class_core_manager_1_1_samples_1_1_scripts_1_1_model_1_1_instanced_object.html", "class_core_manager_1_1_samples_1_1_scripts_1_1_model_1_1_instanced_object" ]
-          ] ],
-          [ "ObjectSpawner", "class_core_manager_1_1_samples_1_1_scripts_1_1_object_spawner.html", null ],
-          [ "SceneLoader", "class_core_manager_1_1_samples_1_1_scripts_1_1_scene_loader.html", "class_core_manager_1_1_samples_1_1_scripts_1_1_scene_loader" ]
-        ] ]
-      ] ],
-      [ "Serializable", "namespace_core_manager_1_1_serializable.html", [
-        [ "Interface", "namespace_core_manager_1_1_serializable_1_1_interface.html", [
-          [ "IUnique", "interface_core_manager_1_1_serializable_1_1_interface_1_1_i_unique.html", "interface_core_manager_1_1_serializable_1_1_interface_1_1_i_unique" ]
+      [ "Serializable", "d6/d27/namespace_core_plugin_1_1_serializable.html", [
+        [ "Interface", "d0/da6/namespace_core_plugin_1_1_serializable_1_1_interface.html", [
+          [ "IUnique", "d4/dd5/interface_core_plugin_1_1_serializable_1_1_interface_1_1_i_unique.html", null ]
         ] ],
-        [ "Unique", "class_core_manager_1_1_serializable_1_1_unique.html", "class_core_manager_1_1_serializable_1_1_unique" ]
+        [ "Unique", "dc/dda/class_core_plugin_1_1_serializable_1_1_unique.html", null ]
       ] ],
-      [ "Singletons", "namespace_core_manager_1_1_singletons.html", [
-        [ "Singleton", "class_core_manager_1_1_singletons_1_1_singleton.html", "class_core_manager_1_1_singletons_1_1_singleton" ]
+      [ "Singletons", "d3/ddd/namespace_core_plugin_1_1_singletons.html", [
+        [ "Singleton", "da/d5a/class_core_plugin_1_1_singletons_1_1_singleton.html", null ]
       ] ],
-      [ "UISystem", "namespace_core_manager_1_1_u_i_system.html", [
-        [ "UI", "namespace_core_manager_1_1_u_i_system_1_1_u_i.html", [
-          [ "ButtonWithText", "class_core_manager_1_1_u_i_system_1_1_u_i_1_1_button_with_text.html", "class_core_manager_1_1_u_i_system_1_1_u_i_1_1_button_with_text" ],
-          [ "SubPagesController", "class_core_manager_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller.html", "class_core_manager_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller" ],
-          [ "UIPage", "class_core_manager_1_1_u_i_system_1_1_u_i_1_1_u_i_page.html", "class_core_manager_1_1_u_i_system_1_1_u_i_1_1_u_i_page" ]
+      [ "UISystem", "d3/d64/namespace_core_plugin_1_1_u_i_system.html", [
+        [ "UI", "d0/d8b/namespace_core_plugin_1_1_u_i_system_1_1_u_i.html", [
+          [ "SubPagesController", "dd/dca/class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller.html", "dd/dca/class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller" ],
+          [ "UIPage", "d5/d12/class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_u_i_page.html", "d5/d12/class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_u_i_page" ]
         ] ],
-        [ "UIManager", "class_core_manager_1_1_u_i_system_1_1_u_i_manager.html", "class_core_manager_1_1_u_i_system_1_1_u_i_manager" ]
+        [ "UIManager", "d7/d42/class_core_plugin_1_1_u_i_system_1_1_u_i_manager.html", "d7/d42/class_core_plugin_1_1_u_i_system_1_1_u_i_manager" ]
       ] ]
     ] ]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['basecore_111',['BaseCore',['../class_core_manager_1_1_core_1_1_base_core.html',1,'CoreManager::Core']]],
-  ['buttonwithtext_112',['ButtonWithText',['../class_core_manager_1_1_u_i_system_1_1_u_i_1_1_button_with_text.html',1,'CoreManager::UISystem::UI']]]
+  ['basecore_100',['BaseCore',['../db/d4d/class_core_plugin_1_1_core_1_1_base_core.html',1,'CorePlugin::Core']]]
 ];
