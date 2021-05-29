@@ -1,4 +1,4 @@
 var namespaces_dup =
 [
-    [ "Core", "namespace_core.html", "namespace_core" ]
+    [ "CoreManager", "namespace_core_manager.html", "namespace_core_manager" ]
 ];

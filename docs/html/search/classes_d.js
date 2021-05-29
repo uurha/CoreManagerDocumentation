@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['uimanager_135',['UIManager',['../class_core_1_1_u_i_system_1_1_u_i_manager.html',1,'Core::UISystem']]],
-  ['uipage_136',['UIPage',['../class_core_1_1_u_i_system_1_1_u_i_1_1_u_i_page.html',1,'Core::UISystem::UI']]],
-  ['uistatetools_137',['UIStateTools',['../class_core_1_1_extensions_1_1_u_i_state_tools.html',1,'Core::Extensions']]],
-  ['unityeditorextension_138',['UnityEditorExtension',['../class_core_1_1_extensions_1_1_unity_editor_extension.html',1,'Core::Extensions']]],
-  ['unityextensions_139',['UnityExtensions',['../class_core_1_1_extensions_1_1_unity_extensions.html',1,'Core::Extensions']]]
+  ['uimanager_155',['UIManager',['../class_core_manager_1_1_u_i_system_1_1_u_i_manager.html',1,'CoreManager::UISystem']]],
+  ['uipage_156',['UIPage',['../class_core_manager_1_1_u_i_system_1_1_u_i_1_1_u_i_page.html',1,'CoreManager::UISystem::UI']]],
+  ['uistatetools_157',['UIStateTools',['../class_core_manager_1_1_extensions_1_1_u_i_state_tools.html',1,'CoreManager::Extensions']]],
+  ['unique_158',['Unique',['../class_core_manager_1_1_serializable_1_1_unique.html',1,'CoreManager::Serializable']]],
+  ['unityeditorextension_159',['UnityEditorExtension',['../class_core_manager_1_1_extensions_1_1_unity_editor_extension.html',1,'CoreManager::Extensions']]],
+  ['unityextensions_160',['UnityExtensions',['../class_core_manager_1_1_extensions_1_1_unity_extensions.html',1,'CoreManager::Extensions']]]
 ];
