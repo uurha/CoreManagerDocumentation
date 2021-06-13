@@ -87,7 +87,37 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <div class="title">CoreManager </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="md_CoreManager_Assets_CorePlugin_README"></a>Package created on version 2020.3.6f1 but compatible with the versions starting from 2020.x.x </p>
+<div class="textblock"><p><a class="anchor" id="md_CoreManager_Assets_CorePlugin_README"></a> Reasons to use this package:</p><ul>
+<li>It allows avoiding reference serialization via Inspector.</li>
+<li>It removes the need for GOD objects.</li>
+<li>Provides high script flexibility and low cohesion.</li>
+</ul>
+<h1><a class="anchor" id="autotoc_md1"></a>
+Technical details</h1>
+<p>Package created on version 2020.3.6f1 but compatible with the versions starting from 2020.x.x</p>
+<p>Any OS supported. Unity version 2020 and above. (Package requires C# 8.0)</p>
+<h1><a class="anchor" id="autotoc_md2"></a>
+Features</h1>
+<ol type="1">
+<li><b>Core Manager</b> - used for scene, subscription, and reference initialization.</li>
+<li><b>Cross Events</b> - replacement for the traditional event serialization and subscription.</li>
+<li><b>Reference Distributor</b> - reference container for data distribution in one scene.</li>
+<li><b>Cross Scene Data Handler</b> - data container(not references) which allows data distribution between scenes. Supports both classes and structures.</li>
+<li><b>Custom Validation Attributes</b> - allows validating serialized data. This plugin contains both predefined validation attributes and mechanisms to implement new validation attributes. Supports both class and field attributes.</li>
+<li><b>Custom Editor</b> - used for attribute validation and displaying errors in Inspector.</li>
+<li><b>Custom Logger</b> - use this logger if you want to show logs in debug build/editor, but not in release build.</li>
+<li><b>Custom Play Mode</b> entering - prevents Play Mode start if the current scene contains validation failure.</li>
+<li><b>Custom Build</b> start - prevents application build if scenes included in the build or prefabs with validation attributes contain validation failures.</li>
+<li><b>SaveSystem</b> - system to save/load JSON files.</li>
+<li><b>UIStateTools &amp; UIManager</b> - base UI system for page-based UI.</li>
+<li><b>Extensions</b> - for Editor and base classes.</li>
+</ol>
+<h1><a class="anchor" id="autotoc_md3"></a>
+Coming soon</h1>
+<ol type="1">
+<li><b>Custom SceneManager</b> - allows to asynchronously load the scene with options to send a callback or set Time.scale = 0 through an intermediate scene.</li>
+<li><b>Runtime console</b> - console with Unity logs for debug and/or release builds. Allows display console logs like in Unity Editor. Strips from release builds if other not predetermined. </li>
+</ol>
 </div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->

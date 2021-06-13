@@ -25,7 +25,11 @@
 var NAVTREE =
 [
   [ "Core Manager", "index.html", [
-    [ "CoreManager", "index.html", null ],
+    [ "CoreManager", "index.html", [
+      [ "Technical details", "index.html#autotoc_md1", null ],
+      [ "Features", "index.html#autotoc_md2", null ],
+      [ "Coming soon", "index.html#autotoc_md3", null ]
+    ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
