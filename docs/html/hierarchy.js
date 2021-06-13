@@ -1,5 +1,8 @@
 var hierarchy =
 [
+    [ "ConsoleLogToggle", "class_core_plugin_1_1_console_1_1_console_log_toggle.html", null ],
+    [ "ConsoleMessage", "class_core_plugin_1_1_console_1_1_console_message.html", null ],
+    [ "ConsoleTextSettings", "class_core_plugin_1_1_console_1_1_console_text_settings.html", null ],
     [ "CoreManager", "class_core_plugin_1_1_core_1_1_core_manager.html", null ],
     [ "CustomLogger", "class_core_plugin_1_1_logger_1_1_custom_logger.html", null ],
     [ "EventInitializer", "class_core_plugin_1_1_core_1_1_event_initializer.html", null ],
@@ -23,6 +26,7 @@ var hierarchy =
     [ "PrefabHeaderAttribute", "class_core_plugin_1_1_custom_attributes_1_1_headers_1_1_prefab_header_attribute.html", null ],
     [ "ReferenceDistributor", "class_core_plugin_1_1_reference_distribution_1_1_reference_distributor.html", null ],
     [ "ReferencesHeaderAttribute", "class_core_plugin_1_1_custom_attributes_1_1_headers_1_1_references_header_attribute.html", null ],
+    [ "RuntimeConsole", "class_core_plugin_1_1_console_1_1_runtime_console.html", null ],
     [ "SettingsHeaderAttribute", "class_core_plugin_1_1_custom_attributes_1_1_headers_1_1_settings_header_attribute.html", null ],
     [ "Singleton< T >", "class_core_plugin_1_1_singletons_1_1_singleton.html", null ],
     [ "Singleton< SceneDataHandler >", "class_core_plugin_1_1_singletons_1_1_singleton.html", [

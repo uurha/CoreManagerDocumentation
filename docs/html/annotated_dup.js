@@ -1,6 +1,12 @@
 var annotated_dup =
 [
     [ "CorePlugin", "namespace_core_plugin.html", [
+      [ "Console", "namespace_core_plugin_1_1_console.html", [
+        [ "ConsoleLogToggle", "class_core_plugin_1_1_console_1_1_console_log_toggle.html", null ],
+        [ "ConsoleMessage", "class_core_plugin_1_1_console_1_1_console_message.html", "class_core_plugin_1_1_console_1_1_console_message" ],
+        [ "ConsoleTextSettings", "class_core_plugin_1_1_console_1_1_console_text_settings.html", null ],
+        [ "RuntimeConsole", "class_core_plugin_1_1_console_1_1_runtime_console.html", null ]
+      ] ],
       [ "Core", "namespace_core_plugin_1_1_core.html", [
         [ "Interface", "namespace_core_plugin_1_1_core_1_1_interface.html", [
           [ "ICore", "interface_core_plugin_1_1_core_1_1_interface_1_1_i_core.html", "interface_core_plugin_1_1_core_1_1_interface_1_1_i_core" ]

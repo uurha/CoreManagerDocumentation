@@ -1,5 +1,6 @@
 var namespace_core_plugin =
 [
+    [ "Console", "namespace_core_plugin_1_1_console.html", "namespace_core_plugin_1_1_console" ],
     [ "Core", "namespace_core_plugin_1_1_core.html", "namespace_core_plugin_1_1_core" ],
     [ "Cross", "namespace_core_plugin_1_1_cross.html", "namespace_core_plugin_1_1_cross" ],
     [ "CustomAttributes", "namespace_core_plugin_1_1_custom_attributes.html", "namespace_core_plugin_1_1_custom_attributes" ],
