@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['oneandonlyattribute_76',['OneAndOnlyAttribute',['../class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_one_and_only_attribute.html',1,'CorePlugin::CustomAttributes::Validation']]],
-  ['onenable_77',['OnEnable',['../class_core_plugin_1_1_editor_1_1_symbol_definer_a84e23ba394eacd818d2e005cc466c4d1.html#a84e23ba394eacd818d2e005cc466c4d1',1,'CorePlugin::Editor::SymbolDefiner']]],
-  ['openpage_78',['OpenPage',['../class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller_a1bbb8e2df8debc91fc2df941de38362a.html#a1bbb8e2df8debc91fc2df941de38362a',1,'CorePlugin::UISystem::UI::SubPagesController']]]
+  ['named_83',['Named',['../class_core_plugin_1_1_extensions_1_1_named.html',1,'CorePlugin::Extensions']]],
+  ['named_3c_20string_2c_20object_20_3e_84',['Named&lt; string, Object &gt;',['../class_core_plugin_1_1_extensions_1_1_named.html',1,'CorePlugin::Extensions']]],
+  ['notnullattribute_85',['NotNullAttribute',['../class_core_plugin_1_1_attributes_1_1_validation_1_1_not_null_attribute.html',1,'CorePlugin::Attributes::Validation']]]
 ];

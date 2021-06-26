@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['named_73',['Named',['../class_core_plugin_1_1_extensions_1_1_named.html',1,'CorePlugin::Extensions']]],
-  ['named_3c_20string_2c_20object_20_3e_74',['Named&lt; string, Object &gt;',['../class_core_plugin_1_1_extensions_1_1_named.html',1,'CorePlugin::Extensions']]],
-  ['notnullattribute_75',['NotNullAttribute',['../class_core_plugin_1_1_custom_attributes_1_1_validation_1_1_not_null_attribute.html',1,'CorePlugin::CustomAttributes::Validation']]]
+  ['minimizecountdisplayer_80',['MinimizeCountDisplayer',['../class_core_plugin_1_1_console_1_1_console_elements_1_1_minimize_count_displayer.html',1,'CorePlugin::Console::ConsoleElements']]],
+  ['minimizedconsole_81',['MinimizedConsole',['../class_core_plugin_1_1_console_1_1_minimized_console.html',1,'CorePlugin::Console']]],
+  ['movableinsidescreen_82',['MovableInsideScreen',['../class_core_plugin_1_1_u_i_system_1_1_movable_inside_screen.html',1,'CorePlugin::UISystem']]]
 ];
