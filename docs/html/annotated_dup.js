@@ -60,7 +60,9 @@ var annotated_dup =
         ] ]
       ] ],
       [ "Editor", "namespace_core_plugin_1_1_editor.html", [
-        [ "CustomInspectorCoreManager", "class_core_plugin_1_1_editor_1_1_custom_inspector_core_manager.html", null ],
+        [ "CoreManagerEditor", "class_core_plugin_1_1_editor_1_1_core_manager_editor.html", null ],
+        [ "SceneLoaderSettingsEditor", "class_core_plugin_1_1_editor_1_1_scene_loader_settings_editor.html", null ],
+        [ "SceneLoaderSettingsValidator", "class_core_plugin_1_1_editor_1_1_scene_loader_settings_validator.html", null ],
         [ "SymbolDefiner", "class_core_plugin_1_1_editor_1_1_symbol_definer.html", "class_core_plugin_1_1_editor_1_1_symbol_definer" ]
       ] ],
       [ "Extensions", "namespace_core_plugin_1_1_extensions.html", [

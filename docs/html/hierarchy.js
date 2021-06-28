@@ -39,6 +39,8 @@ var hierarchy =
     [ "SceneLoaderAsset", "class_core_plugin_1_1_scene_management_1_1_scene_loader_asset.html", null ],
     [ "SceneLoaderExtensions", "class_core_plugin_1_1_scene_management_1_1_scene_loader_extensions.html", null ],
     [ "SceneLoaderSettings", "class_core_plugin_1_1_scene_management_1_1_scene_loader_settings.html", null ],
+    [ "SceneLoaderSettingsEditor", "class_core_plugin_1_1_editor_1_1_scene_loader_settings_editor.html", null ],
+    [ "SceneLoaderSettingsValidator", "class_core_plugin_1_1_editor_1_1_scene_loader_settings_validator.html", null ],
     [ "SettingsHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_settings_header_attribute.html", null ],
     [ "Singleton< T >", "class_core_plugin_1_1_singletons_1_1_singleton.html", null ],
     [ "Singleton< SceneDataHandler >", "class_core_plugin_1_1_singletons_1_1_singleton.html", [
@@ -65,6 +67,6 @@ var hierarchy =
       ] ]
     ] ],
     [ "ValidationAttributeEditor", "class_core_plugin_1_1_attributes_1_1_editor_1_1_validation_attribute_editor.html", [
-      [ "CustomInspectorCoreManager", "class_core_plugin_1_1_editor_1_1_custom_inspector_core_manager.html", null ]
+      [ "CoreManagerEditor", "class_core_plugin_1_1_editor_1_1_core_manager_editor.html", null ]
     ] ]
 ];
