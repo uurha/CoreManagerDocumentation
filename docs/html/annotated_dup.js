@@ -3,6 +3,9 @@ var annotated_dup =
     [ "CorePlugin", "namespace_core_plugin.html", [
       [ "Attributes", "namespace_core_plugin_1_1_attributes.html", [
         [ "Editor", "namespace_core_plugin_1_1_attributes_1_1_editor.html", [
+          [ "Drawers", "namespace_core_plugin_1_1_attributes_1_1_editor_1_1_drawers.html", [
+            [ "RequireInterfaceDrawer", "class_core_plugin_1_1_attributes_1_1_editor_1_1_drawers_1_1_require_interface_drawer.html", "class_core_plugin_1_1_attributes_1_1_editor_1_1_drawers_1_1_require_interface_drawer" ]
+          ] ],
           [ "ValidationAttributeEditor", "class_core_plugin_1_1_attributes_1_1_editor_1_1_validation_attribute_editor.html", null ]
         ] ],
         [ "Headers", "namespace_core_plugin_1_1_attributes_1_1_headers.html", [
@@ -20,7 +23,8 @@ var annotated_dup =
           [ "HasComponentAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_has_component_attribute.html", null ],
           [ "NotNullAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_not_null_attribute.html", null ],
           [ "OneAndOnlyAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_one_and_only_attribute.html", null ],
-          [ "PrefabRequiredAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_prefab_required_attribute.html", null ]
+          [ "PrefabRequiredAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_prefab_required_attribute.html", null ],
+          [ "RequireInterfaceAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_require_interface_attribute.html", "class_core_plugin_1_1_attributes_1_1_validation_1_1_require_interface_attribute" ]
         ] ]
       ] ],
       [ "Console", "namespace_core_plugin_1_1_console.html", [

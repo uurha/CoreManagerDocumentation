@@ -1,0 +1,4 @@
+var namespace_core_plugin_1_1_attributes_1_1_editor_1_1_drawers =
+[
+    [ "RequireInterfaceDrawer", "class_core_plugin_1_1_attributes_1_1_editor_1_1_drawers_1_1_require_interface_drawer.html", "class_core_plugin_1_1_attributes_1_1_editor_1_1_drawers_1_1_require_interface_drawer" ]
+];

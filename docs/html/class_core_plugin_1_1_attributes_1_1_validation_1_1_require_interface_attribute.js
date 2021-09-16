@@ -1,0 +1,4 @@
+var class_core_plugin_1_1_attributes_1_1_validation_1_1_require_interface_attribute =
+[
+    [ "RequireInterfaceAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_require_interface_attribute_a2756abdcac5749784d6584b349a36389.html#a2756abdcac5749784d6584b349a36389", null ]
+];

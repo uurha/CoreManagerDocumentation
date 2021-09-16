@@ -34,6 +34,8 @@ var hierarchy =
     [ "PrefabHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_prefab_header_attribute.html", null ],
     [ "ReferenceDistributor", "class_core_plugin_1_1_reference_distribution_1_1_reference_distributor.html", null ],
     [ "ReferencesHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_references_header_attribute.html", null ],
+    [ "RequireInterfaceAttribute", "class_core_plugin_1_1_attributes_1_1_validation_1_1_require_interface_attribute.html", null ],
+    [ "RequireInterfaceDrawer", "class_core_plugin_1_1_attributes_1_1_editor_1_1_drawers_1_1_require_interface_drawer.html", null ],
     [ "RuntimeConsole", "class_core_plugin_1_1_console_1_1_runtime_console.html", null ],
     [ "SceneLoader", "class_core_plugin_1_1_scene_management_1_1_scene_loader.html", null ],
     [ "SceneLoaderAsset", "class_core_plugin_1_1_scene_management_1_1_scene_loader_asset.html", null ],
