@@ -30,7 +30,8 @@ var NAVTREE =
       [ "Features", "index.html#autotoc_md2", null ],
       [ "Improvements", "index.html#autotoc_md3", null ],
       [ "Breaking changes", "index.html#autotoc_md4", [
-        [ "v1.1.2", "index.html#autotoc_md5", null ]
+        [ "v1.1.2", "index.html#autotoc_md5", null ],
+        [ "v1.1.3", "index.html#autotoc_md6", null ]
       ] ]
     ] ],
     [ "Namespaces", "namespaces.html", [
