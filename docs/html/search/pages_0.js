@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['coremanager_284',['CoreManager',['../index.html',1,'']]]
+  ['coremanager_224',['CoreManager',['../index.html',1,'']]]
 ];

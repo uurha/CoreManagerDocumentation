@@ -1,7 +1,9 @@
 var namespace_core_plugin_1_1_editor =
 [
-    [ "CoreManagerEditor", "class_core_plugin_1_1_editor_1_1_core_manager_editor.html", null ],
-    [ "SceneLoaderSettingsEditor", "class_core_plugin_1_1_editor_1_1_scene_loader_settings_editor.html", null ],
-    [ "SceneLoaderSettingsValidator", "class_core_plugin_1_1_editor_1_1_scene_loader_settings_validator.html", null ],
-    [ "SymbolDefiner", "class_core_plugin_1_1_editor_1_1_symbol_definer.html", "class_core_plugin_1_1_editor_1_1_symbol_definer" ]
+    [ "Drawers", "namespace_core_plugin_1_1_editor_1_1_drawers.html", null ],
+    [ "EditorState", "namespace_core_plugin_1_1_editor_1_1_editor_state.html", null ],
+    [ "Extensions", "namespace_core_plugin_1_1_editor_1_1_extensions.html", "namespace_core_plugin_1_1_editor_1_1_extensions" ],
+    [ "Helpers", "namespace_core_plugin_1_1_editor_1_1_helpers.html", null ],
+    [ "MenuItemHelpers", "namespace_core_plugin_1_1_editor_1_1_menu_item_helpers.html", null ],
+    [ "Windows", "namespace_core_plugin_1_1_editor_1_1_windows.html", null ]
 ];

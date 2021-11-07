@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['named_85',['Named',['../class_core_plugin_1_1_extensions_1_1_named.html',1,'CorePlugin::Extensions']]],
-  ['named_3c_20string_2c_20object_20_3e_86',['Named&lt; string, Object &gt;',['../class_core_plugin_1_1_extensions_1_1_named.html',1,'CorePlugin::Extensions']]],
-  ['notnullattribute_87',['NotNullAttribute',['../class_core_plugin_1_1_attributes_1_1_validation_1_1_not_null_attribute.html',1,'CorePlugin::Attributes::Validation']]]
+  ['oneandonlyattribute_80',['OneAndOnlyAttribute',['../class_core_plugin_1_1_attributes_1_1_validation_1_1_one_and_only_attribute.html',1,'CorePlugin::Attributes::Validation']]],
+  ['openpage_81',['OpenPage',['../class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller_a1bbb8e2df8debc91fc2df941de38362a.html#a1bbb8e2df8debc91fc2df941de38362a',1,'CorePlugin::UISystem::UI::SubPagesController']]]
 ];

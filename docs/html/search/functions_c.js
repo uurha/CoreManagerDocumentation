@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['unsubscribe_282',['Unsubscribe',['../class_core_plugin_1_1_core_1_1_event_initializer_adb0e3fa6450ac0273eb1a539a5064357.html#adb0e3fa6450ac0273eb1a539a5064357',1,'CorePlugin.Core.EventInitializer.Unsubscribe()'],['../interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler_a3ae80f2d876f2490ae945ab5452643b5.html#a3ae80f2d876f2490ae945ab5452643b5',1,'CorePlugin.Cross.Events.Interface.IEventHandler.Unsubscribe()']]],
-  ['until_283',['Until',['../class_core_plugin_1_1_scene_management_1_1_scene_loader_extensions_aeeadf98b33a9bfb1cbceaab8534d1a51.html#aeeadf98b33a9bfb1cbceaab8534d1a51',1,'CorePlugin::SceneManagement::SceneLoaderExtensions']]]
+  ['trytofindobjectoftype_3c_20t_20_3e_221',['TryToFindObjectOfType&lt; T &gt;',['../class_core_plugin_1_1_extensions_1_1_unity_extensions_a0899bba94ecf62f86c37447e341e7660.html#a0899bba94ecf62f86c37447e341e7660',1,'CorePlugin::Extensions::UnityExtensions']]],
+  ['trytofindobjectsoftype_3c_20t_20_3e_222',['TryToFindObjectsOfType&lt; T &gt;',['../class_core_plugin_1_1_extensions_1_1_unity_extensions_aefa40d56dfb32d6c206b814fb0d150e6.html#aefa40d56dfb32d6c206b814fb0d150e6',1,'CorePlugin.Extensions.UnityExtensions.TryToFindObjectsOfType&lt; T &gt;(out IEnumerable&lt; T &gt; result)'],['../class_core_plugin_1_1_extensions_1_1_unity_extensions_a5d770f8567e823312485d3578a4e7118.html#a5d770f8567e823312485d3578a4e7118',1,'CorePlugin.Extensions.UnityExtensions.TryToFindObjectsOfType&lt; T &gt;(out IList&lt; T &gt; result)']]]
 ];

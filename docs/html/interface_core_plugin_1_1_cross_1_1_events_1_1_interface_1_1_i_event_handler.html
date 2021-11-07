@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="CoreManager-Icon_Croped64.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Core Manager
-   &#160;<span id="projectnumber">1.1.3</span>
+   &#160;<span id="projectnumber">2.0.1</span>
    </div>
   </td>
  </tr>
@@ -113,10 +113,7 @@ Public Member Functions</h2></td></tr>
 <p><code> <br  />
 public void <a class="el" href="interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler_a283b0f3a883a1c8ffa1dc532fd56ea64.html#a283b0f3a883a1c8ffa1dc532fd56ea64" title="Subscribing delegates to event">Subscribe(params Delegate[] subscriber)</a> <br  />
 { <br  />
- foreach (var action in subscriber.OfType&lt;EventTypes.DelegateClass&gt;()) <br  />
- { <br  />
- MyEvent += action; <br  />
- } <br  />
+ EventExtensions.Subscribe(ref event, subscribers); <br  />
 } </code> </p><dl class="section see"><dt>See also</dt><dd><a class="el" href="class_core_plugin_1_1_cross_1_1_events_1_1_event_types.html" title="Declare your delegate type to convert method group to delegate.">CorePlugin.Cross.Events.EventTypes</a></dd></dl>
 </div><hr/>The documentation for this interface was generated from the following file:<ul>
 <li>IEventHandler.cs</li>

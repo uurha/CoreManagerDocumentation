@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['debuglogger_150',['DebugLogger',['../class_core_plugin_1_1_logger_1_1_debug_logger.html',1,'CorePlugin::Logger']]]
+  ['debuglogger_116',['DebugLogger',['../class_core_plugin_1_1_logger_1_1_debug_logger.html',1,'CorePlugin::Logger']]]
 ];
