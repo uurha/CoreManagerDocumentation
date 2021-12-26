@@ -11,6 +11,10 @@ var annotated_dup =
           [ "ValidationAttributeEditor", "class_core_plugin_1_1_attributes_1_1_editor_1_1_validation_attribute_editor.html", null ]
         ] ],
         [ "EditorAddons", "namespace_core_plugin_1_1_attributes_1_1_editor_addons.html", [
+          [ "SelectAttributes", "namespace_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes.html", [
+            [ "SelectImplementationAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_implementation_attribute.html", null ],
+            [ "SelectTypeAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_type_attribute.html", null ]
+          ] ],
           [ "CoreManagerElementAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_core_manager_element_attribute.html", null ],
           [ "CoreManagerElementsFieldAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_core_manager_elements_field_attribute.html", null ],
           [ "EditorButtonAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_editor_button_attribute.html", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_editor_button_attribute" ]
@@ -82,13 +86,6 @@ var annotated_dup =
       [ "Singletons", "namespace_core_plugin_1_1_singletons.html", [
         [ "Singleton", "class_core_plugin_1_1_singletons_1_1_singleton.html", null ],
         [ "StaticObjectSingleton", "class_core_plugin_1_1_singletons_1_1_static_object_singleton.html", null ]
-      ] ],
-      [ "UISystem", "namespace_core_plugin_1_1_u_i_system.html", [
-        [ "UI", "namespace_core_plugin_1_1_u_i_system_1_1_u_i.html", [
-          [ "SubPagesController", "class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller.html", "class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller" ],
-          [ "UIPage", "class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_u_i_page.html", "class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_u_i_page" ]
-        ] ],
-        [ "UIManager", "class_core_plugin_1_1_u_i_system_1_1_u_i_manager.html", "class_core_plugin_1_1_u_i_system_1_1_u_i_manager" ]
       ] ]
     ] ]
 ];

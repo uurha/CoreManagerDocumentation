@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['adddata_3c_20t_20_3e_187',['AddData&lt; T &gt;',['../class_core_plugin_1_1_cross_1_1_scene_data_1_1_scene_data_handler_a4e17dc4192a9a6cee36d43c2ce029379.html#a4e17dc4192a9a6cee36d43c2ce029379',1,'CorePlugin::Cross::SceneData::SceneDataHandler']]],
-  ['addhandler_188',['AddHandler',['../class_core_plugin_1_1_core_1_1_event_initializer_abd799fd1e1ecfdc277cc943b4137eb6f.html#abd799fd1e1ecfdc277cc943b4137eb6f',1,'CorePlugin::Core::EventInitializer']]],
-  ['addpage_189',['AddPage',['../class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller_a866b4b37c6f8c9ffea551dd6ecc930a4.html#a866b4b37c6f8c9ffea551dd6ecc930a4',1,'CorePlugin.UISystem.UI.SubPagesController.AddPage(UIPage page, out Action openPage)'],['../class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller_ab7eccbf0487913b1e419256efd879670.html#ab7eccbf0487913b1e419256efd879670',1,'CorePlugin.UISystem.UI.SubPagesController.AddPage(UIPage page, out UnityAction openPage)']]],
-  ['askreference_3c_20t_20_3e_190',['AskReference&lt; T &gt;',['../class_core_plugin_1_1_reference_distribution_1_1_reference_distributor_a009c1a6c5d571ee9260ff49bc4e092dc.html#a009c1a6c5d571ee9260ff49bc4e092dc',1,'CorePlugin::ReferenceDistribution::ReferenceDistributor']]]
+  ['adddata_3c_20t_20_3e_185',['AddData&lt; T &gt;',['../class_core_plugin_1_1_cross_1_1_scene_data_1_1_scene_data_handler_a7620ad2bd148e76853b44552913ab4ce.html#a7620ad2bd148e76853b44552913ab4ce',1,'CorePlugin::Cross::SceneData::SceneDataHandler']]],
+  ['addhandler_186',['AddHandler',['../class_core_plugin_1_1_core_1_1_event_initializer_abd799fd1e1ecfdc277cc943b4137eb6f.html#abd799fd1e1ecfdc277cc943b4137eb6f',1,'CorePlugin::Core::EventInitializer']]],
+  ['askreference_3c_20t_20_3e_187',['AskReference&lt; T &gt;',['../class_core_plugin_1_1_reference_distribution_1_1_reference_distributor_a009c1a6c5d571ee9260ff49bc4e092dc.html#a009c1a6c5d571ee9260ff49bc4e092dc',1,'CorePlugin::ReferenceDistribution::ReferenceDistributor']]]
 ];

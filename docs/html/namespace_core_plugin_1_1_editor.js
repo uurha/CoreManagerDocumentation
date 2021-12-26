@@ -1,6 +1,6 @@
 var namespace_core_plugin_1_1_editor =
 [
-    [ "Drawers", "namespace_core_plugin_1_1_editor_1_1_drawers.html", null ],
+    [ "Drawers", "namespace_core_plugin_1_1_editor_1_1_drawers.html", "namespace_core_plugin_1_1_editor_1_1_drawers" ],
     [ "EditorState", "namespace_core_plugin_1_1_editor_1_1_editor_state.html", null ],
     [ "Extensions", "namespace_core_plugin_1_1_editor_1_1_extensions.html", "namespace_core_plugin_1_1_editor_1_1_extensions" ],
     [ "Helpers", "namespace_core_plugin_1_1_editor_1_1_helpers.html", null ],

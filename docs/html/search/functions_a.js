@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['removedata_3c_20t_20_3e_216',['RemoveData&lt; T &gt;',['../class_core_plugin_1_1_cross_1_1_scene_data_1_1_scene_data_handler_ae96aec36c9255056240823ca2f4f413d.html#ae96aec36c9255056240823ca2f4f413d',1,'CorePlugin::Cross::SceneData::SceneDataHandler']]],
-  ['removehandler_217',['RemoveHandler',['../class_core_plugin_1_1_core_1_1_event_initializer_aec7c184e04af465e3b50489b8de73824.html#aec7c184e04af465e3b50489b8de73824',1,'CorePlugin::Core::EventInitializer']]],
-  ['removerange_3c_20t_20_3e_218',['RemoveRange&lt; T &gt;',['../class_core_plugin_1_1_extensions_1_1_unity_extensions_a16956e29e935724378084ee44febdd22.html#a16956e29e935724378084ee44febdd22',1,'CorePlugin::Extensions::UnityExtensions']]]
+  ['save_3c_20t_20_3e_215',['Save&lt; T &gt;',['../class_core_plugin_1_1_file_system_1_1_file_system_aaabb5e89072b96ac93649d3fbfa2d514.html#aaabb5e89072b96ac93649d3fbfa2d514',1,'CorePlugin.FileSystem.FileSystem.Save&lt; T &gt;(T data, Action&lt; Exception &gt; onError, Object context=null)'],['../class_core_plugin_1_1_file_system_1_1_file_system_acd79259a286652aa1aeb4354c3a09431.html#acd79259a286652aa1aeb4354c3a09431',1,'CorePlugin.FileSystem.FileSystem.Save&lt; T &gt;(T data, string fileName, Action&lt; Exception &gt; onError, Object context=null)']]],
+  ['subscribe_216',['Subscribe',['../class_core_plugin_1_1_core_1_1_event_initializer_a9181fc66486c73f3e0691ebdedaa093f.html#a9181fc66486c73f3e0691ebdedaa093f',1,'CorePlugin.Core.EventInitializer.Subscribe()'],['../interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler_a283b0f3a883a1c8ffa1dc532fd56ea64.html#a283b0f3a883a1c8ffa1dc532fd56ea64',1,'CorePlugin.Cross.Events.Interface.IEventHandler.Subscribe()']]]
 ];

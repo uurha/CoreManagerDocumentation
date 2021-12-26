@@ -11,6 +11,5 @@ var namespace_core_plugin =
     [ "ReferenceDistribution", "namespace_core_plugin_1_1_reference_distribution.html", "namespace_core_plugin_1_1_reference_distribution" ],
     [ "Samples", "namespace_core_plugin_1_1_samples.html", "namespace_core_plugin_1_1_samples" ],
     [ "Serializable", "namespace_core_plugin_1_1_serializable.html", "namespace_core_plugin_1_1_serializable" ],
-    [ "Singletons", "namespace_core_plugin_1_1_singletons.html", "namespace_core_plugin_1_1_singletons" ],
-    [ "UISystem", "namespace_core_plugin_1_1_u_i_system.html", "namespace_core_plugin_1_1_u_i_system" ]
+    [ "Singletons", "namespace_core_plugin_1_1_singletons.html", "namespace_core_plugin_1_1_singletons" ]
 ];

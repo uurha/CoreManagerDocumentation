@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['trytofindobjectoftype_3c_20t_20_3e_221',['TryToFindObjectOfType&lt; T &gt;',['../class_core_plugin_1_1_extensions_1_1_unity_extensions_a0899bba94ecf62f86c37447e341e7660.html#a0899bba94ecf62f86c37447e341e7660',1,'CorePlugin::Extensions::UnityExtensions']]],
-  ['trytofindobjectsoftype_3c_20t_20_3e_222',['TryToFindObjectsOfType&lt; T &gt;',['../class_core_plugin_1_1_extensions_1_1_unity_extensions_aefa40d56dfb32d6c206b814fb0d150e6.html#aefa40d56dfb32d6c206b814fb0d150e6',1,'CorePlugin.Extensions.UnityExtensions.TryToFindObjectsOfType&lt; T &gt;(out IEnumerable&lt; T &gt; result)'],['../class_core_plugin_1_1_extensions_1_1_unity_extensions_a5d770f8567e823312485d3578a4e7118.html#a5d770f8567e823312485d3578a4e7118',1,'CorePlugin.Extensions.UnityExtensions.TryToFindObjectsOfType&lt; T &gt;(out IList&lt; T &gt; result)']]]
+  ['unsubscribe_219',['Unsubscribe',['../class_core_plugin_1_1_core_1_1_event_initializer_adb0e3fa6450ac0273eb1a539a5064357.html#adb0e3fa6450ac0273eb1a539a5064357',1,'CorePlugin.Core.EventInitializer.Unsubscribe()'],['../interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler_a3ae80f2d876f2490ae945ab5452643b5.html#a3ae80f2d876f2490ae945ab5452643b5',1,'CorePlugin.Cross.Events.Interface.IEventHandler.Unsubscribe()']]]
 ];

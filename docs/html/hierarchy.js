@@ -9,9 +9,7 @@ var hierarchy =
     [ "EventTypes", "class_core_plugin_1_1_cross_1_1_events_1_1_event_types.html", null ],
     [ "FileSystem", "class_core_plugin_1_1_file_system_1_1_file_system.html", null ],
     [ "ICore", "interface_core_plugin_1_1_core_1_1_interface_1_1_i_core.html", [
-      [ "BaseCore", "class_core_plugin_1_1_core_1_1_base_core.html", [
-        [ "UIManager", "class_core_plugin_1_1_u_i_system_1_1_u_i_manager.html", null ]
-      ] ]
+      [ "BaseCore", "class_core_plugin_1_1_core_1_1_base_core.html", null ]
     ] ],
     [ "IDistributingReference", "interface_core_plugin_1_1_reference_distribution_1_1_interface_1_1_i_distributing_reference.html", null ],
     [ "IEventHandler", "interface_core_plugin_1_1_cross_1_1_events_1_1_interface_1_1_i_event_handler.html", null ],
@@ -26,17 +24,17 @@ var hierarchy =
     [ "PrefabHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_prefab_header_attribute.html", null ],
     [ "ReferenceDistributor", "class_core_plugin_1_1_reference_distribution_1_1_reference_distributor.html", null ],
     [ "ReferencesHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_references_header_attribute.html", null ],
+    [ "SelectImplementationAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_implementation_attribute.html", null ],
+    [ "SelectTypeAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_type_attribute.html", null ],
     [ "SettingsHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_settings_header_attribute.html", null ],
     [ "Singleton< T >", "class_core_plugin_1_1_singletons_1_1_singleton.html", null ],
-    [ "Singleton< SceneDataHandler >", "class_core_plugin_1_1_singletons_1_1_singleton.html", [
-      [ "SceneDataHandler", "class_core_plugin_1_1_cross_1_1_scene_data_1_1_scene_data_handler.html", null ]
-    ] ],
     [ "StateHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_state_header_attribute.html", null ],
     [ "StaticObjectSingleton< T >", "class_core_plugin_1_1_singletons_1_1_static_object_singleton.html", null ],
     [ "StaticObjectSingleton< MainThreadDispatcher >", "class_core_plugin_1_1_singletons_1_1_static_object_singleton.html", null ],
+    [ "StaticObjectSingleton< SceneDataHandler >", "class_core_plugin_1_1_singletons_1_1_static_object_singleton.html", [
+      [ "SceneDataHandler", "class_core_plugin_1_1_cross_1_1_scene_data_1_1_scene_data_handler.html", null ]
+    ] ],
     [ "StaticObjectSingleton< StaticCoroutineDispatcher >", "class_core_plugin_1_1_singletons_1_1_static_object_singleton.html", null ],
-    [ "SubPagesController", "class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_sub_pages_controller.html", null ],
-    [ "UIPage", "class_core_plugin_1_1_u_i_system_1_1_u_i_1_1_u_i_page.html", null ],
     [ "UIStateTools", "class_core_plugin_1_1_extensions_1_1_u_i_state_tools.html", null ],
     [ "UnityEditorExtension", "class_core_plugin_1_1_editor_1_1_extensions_1_1_unity_editor_extension.html", null ],
     [ "UnityExtensions", "class_core_plugin_1_1_extensions_1_1_unity_extensions.html", null ],
