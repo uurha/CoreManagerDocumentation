@@ -33,7 +33,8 @@ var NAVTREE =
         [ "v1.1.2", "index.html#autotoc_md5", null ],
         [ "v1.1.3", "index.html#autotoc_md6", null ],
         [ "v2.0.1", "index.html#autotoc_md7", null ],
-        [ "v2.0.2", "index.html#autotoc_md8", null ]
+        [ "v2.0.2", "index.html#autotoc_md8", null ],
+        [ "v2.0.3", "index.html#autotoc_md9", null ]
       ] ]
     ] ],
     [ "Namespaces", "namespaces.html", [

@@ -12,8 +12,7 @@ var annotated_dup =
         ] ],
         [ "EditorAddons", "namespace_core_plugin_1_1_attributes_1_1_editor_addons.html", [
           [ "SelectAttributes", "namespace_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes.html", [
-            [ "SelectImplementationAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_implementation_attribute.html", null ],
-            [ "SelectTypeAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_type_attribute.html", null ]
+            [ "SelectImplementationAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_implementation_attribute.html", null ]
           ] ],
           [ "CoreManagerElementAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_core_manager_element_attribute.html", null ],
           [ "CoreManagerElementsFieldAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_core_manager_elements_field_attribute.html", null ],

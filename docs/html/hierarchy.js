@@ -25,7 +25,6 @@ var hierarchy =
     [ "ReferenceDistributor", "class_core_plugin_1_1_reference_distribution_1_1_reference_distributor.html", null ],
     [ "ReferencesHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_references_header_attribute.html", null ],
     [ "SelectImplementationAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_implementation_attribute.html", null ],
-    [ "SelectTypeAttribute", "class_core_plugin_1_1_attributes_1_1_editor_addons_1_1_select_attributes_1_1_select_type_attribute.html", null ],
     [ "SettingsHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_settings_header_attribute.html", null ],
     [ "Singleton< T >", "class_core_plugin_1_1_singletons_1_1_singleton.html", null ],
     [ "StateHeaderAttribute", "class_core_plugin_1_1_attributes_1_1_headers_1_1_state_header_attribute.html", null ],
